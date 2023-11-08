@@ -1,16 +1,22 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 ## Hi there 👋
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kelvinamaral/kelvinamaral/blob/main/Capa%20github.jpg?raw=true" alt="Hi there, I'm Kelvin!" />
 
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=kelvinamaral&show_icons=true&theme=transparent"/>
+<img align="center" style="margin-bottom:25px" width=100% src="https://github.com/kelvinamaral/kelvinamaral/blob/main/Capa%20github.jpg?raw=true" alt="Hi there, I'm Kelvin!" />
 
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinamaral&layout=compact"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kelvinamaral&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kelvinamaral&show_icons=true&count_private=true&hide_border=true&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinamaral&layout=compact" />
+</div>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kelvinamaral&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
 ## <br> My Skills
@@ -30,3 +36,10 @@
 <a href="https://www.linkedin.com/in/kelvinfamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <a href="https://www.instagram.com/kelvinfamaral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a></div>&nbsp;&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kelvinamaral}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>

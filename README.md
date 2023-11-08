@@ -1,6 +1,6 @@
 ## Hi there, I'm Kelvin! 👋
 
-<img align="center" style="margin-bottom:100px" width=100% src="" alt="Hi there, I'm Kelvin!" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kelvinamaral/kelvinamaral/blob/main/Capa%20github.jpg?raw=true" alt="Hi there, I'm Kelvin!" />
 &nbsp;&nbsp;&nbsp;
 
 <img align='left' width='55%' src="https://github-readme-stats.vercel.app/api?username=kelvinamaral&show_icons=true&theme=transparent"/>

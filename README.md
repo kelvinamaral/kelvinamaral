@@ -1,4 +1,4 @@
-## Hi there, I'm Kelvin! 👋
+## Hi there 👋
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kelvinamaral/kelvinamaral/blob/main/Capa%20github.jpg?raw=true" alt="Hi there, I'm Kelvin!" />
 &nbsp;&nbsp;&nbsp;
